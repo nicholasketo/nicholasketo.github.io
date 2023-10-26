@@ -16,4 +16,4 @@ A negative Sharpe ratio could mean either the risk-free or benchmark rate is gre
 
 After finding the Sharpe ratio for the individual assets, I moved on to calculating the Sharpe ratio with a distribution of the assets. After doing the calculations, the results shwoed that 50% in VOO and 50% in BLV gave the highest Sharpe ratio. 
 
-
+![Markowitz Table] (/Markowitz Model.png)
