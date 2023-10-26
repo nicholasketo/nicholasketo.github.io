@@ -16,7 +16,7 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "Professional Nicholas Resume.pdf", title: "Resume", icon: home}
+  - {file: "Professional Nicholas Resume.pdf", title: "Resume"}
   - {title: "Eto Swim Academy", url: "https://www.etoswimacademy.ca" }
   - {title: "Project Posts", "posts.md"}
 
