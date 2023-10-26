@@ -4,7 +4,7 @@ title: "About Me"
 ---
 I am a recent engineering graduate from Queen's University majoring in Applied Mathematics and Computer Engineering.
 
-I am interested in fitness, finance, technology, sports and quantitative analysis. 
+I am interested in finance, technology, sports and quantitative analysis. 
 
 Contact: 
 
