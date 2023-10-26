@@ -1,5 +1,5 @@
 ---
-title: Portfolio Optimization using Markowitz Model
+title: "Portfolio Optimization using Markowitz Model"
 layout: post
 ---
  # Two Asset Portfolio Optimization
