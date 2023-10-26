@@ -7,6 +7,7 @@ I am a recent engineering graduate from Queen's University majoring in Applied M
 I am interested in fitness, finance, technology, sports and quantitative analysis. 
 
 Contact: 
+
 Email: 18nke@queensu.ca 
 
 Phone: 647-463-7504
