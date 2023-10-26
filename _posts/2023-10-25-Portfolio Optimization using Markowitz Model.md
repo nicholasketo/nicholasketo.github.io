@@ -8,8 +8,10 @@ layout: post
 
 Using the Markowitz Model, I have created a portfolio optimization of VOO(Vanguard 500 Index Fund ETF) and BLV(Vanguard Long-Term Bond Index Fund ETF).
 
-First, all the data was compiled from 2011 to 2019 for every month. The Growth Percentage was calculating looking at the adjusted close per month. The adjusted close is a more accurate representation as it takes into consideration stock splits and dividends. 
+First, all the data was compiled from 2011 to 2019 for every month. The Growth Percentage was calculating looking at the adjusted close per month. The adjusted close is a more accurate representation as it takes into consideration stock splits and dividends.
+
 ![VOO Model](https://github.com/nicholasketo/nicholaseto/assets/145606057/04980c56-ac39-4653-9148-93fe86dfb67a)
+
 ![BLV Model](https://github.com/nicholasketo/nicholaseto/assets/145606057/d576636d-f59c-4f65-a508-e7a8ba7bbb1a)
 
 After taking the Growth Percentage, the mean, variance, standard deviation and sharpe ratio was calculated of both assets. 
