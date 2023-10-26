@@ -16,8 +16,9 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "index.html", title: "Home", icon: home}
-  - {title: "About Me", icon: address-card}
+  - {file: "Professional Nicholas Resume.pdf", title: "Resume", icon: home}
+  - {title: "Eto Swim Academy", url: "https://www.etoswimacademy.ca" }
+  - {title: "Project Posts", "posts.md"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:18nke@queensu.ca"}
