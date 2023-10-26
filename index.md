@@ -8,4 +8,5 @@ I am interested in fitness, finance, technology, sports and quantitative analysi
 
 Contact: 
 Email: 18nke@queensu.ca 
+
 Phone: 647-463-7504
