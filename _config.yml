@@ -16,7 +16,7 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {url: https://github.com/nicholasketo/nicholaseto/files/13179344/Professional.Nicholas.Resume.pdf, title: "Resume"}
+  - {url: "https://github.com/nicholasketo/nicholaseto/files/13179344/Professional.Nicholas.Resume.pdf", title: "Resume"}
   - {title: "Eto Swim Academy", url: "https://www.etoswimacademy.ca" }
   - {title: "Project Posts", file: "posts.md"}
 
