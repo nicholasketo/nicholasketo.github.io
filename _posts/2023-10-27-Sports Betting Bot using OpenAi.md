@@ -4,6 +4,5 @@ layout: post
 ---
 
 ## Predicting the outcome of NBA games using Machine Learning
-
-hahahhaa.
+Using OpenAi, Nba games were modelled. 
 
