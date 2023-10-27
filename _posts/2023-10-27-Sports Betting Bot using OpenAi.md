@@ -13,7 +13,7 @@ Using OpenAi, NBA games were modelled.
 
 #Bootstrap Files
 ! git clone https://github.com/kyleskom/NBA-Machine-Learning-Sports-Betting.git
-! mv -v ./NBA-Machine-Learning-Sports-Betting/* 
+! mv -v ./NBA-Machine-Learning-Sports-Betting
 ! pip3 install -r requirements.txt
 
 #Clear Bootstrap Logs
