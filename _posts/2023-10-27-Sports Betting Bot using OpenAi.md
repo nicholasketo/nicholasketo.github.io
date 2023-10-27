@@ -36,6 +36,9 @@ The script was cleaning the preexisting files, clone the Git repository and inst
 
 %pip install sbrscrape
 ```
+Next, I installed some libraries needed for the script to run. Scipy is a collection of mathematical algorthms built on the Numpy extension. 
+Tensorflow allows you to create graphs that show data movement. Colorama was used to show the betting odds and expected value at different colours to showcase the difference. 
+Sbrscrape was used to recieve the live betting odds data from sbrodds. 
 
 ```javascript
 import os
