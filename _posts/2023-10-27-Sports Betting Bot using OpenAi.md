@@ -4,7 +4,7 @@ layout: post
 ---
 
 ## Predicting the outcome of NBA games using Machine Learning
-Using OpenAi, NBA games were modelled. 
+Using OpenAi, NBA games were modelled based on Machine Learning of XGBoost Model Predictions. 
 
 ```javascript
 #Remove Preexisting Files
