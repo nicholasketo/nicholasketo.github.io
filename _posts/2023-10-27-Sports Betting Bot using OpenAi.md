@@ -1,5 +1,5 @@
 ---
-title:"Sports Betting Predictor"
+title: "NBA Optimization"
 layout: post
 ---
 
